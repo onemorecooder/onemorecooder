@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @onemorecooder, My name is Alejandro, 24.
+- 👋 Hi, I’m @onemorecooder, My name is Alejandro, 25.
 - 👀 Still a student.
-- 🌱 I’m currently learning PHP.
-- 💞️ I’m skilled with HTML, CSS and Java.
+- 🌱 I’m currently learning React.
+- 💞️ I’m skilled with HTML, CSS and Js.
 - 📫 I’m trying to learn other programming languages, step by step.
 
 
